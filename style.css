@@ -1,0 +1,45 @@
+h1 {
+    color: #ff9933;
+}
+
+/* Style for the container */
+#container {
+    width: 80%;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    margin: auto;
+}
+.intro{
+    text-align: center;
+    width: 300px;
+    margin: 0 auto;
+}
+.student-info{
+    padding-left: 10px;
+    background-color: #dae9f7;
+    text-align: left;
+}
+/* Styling for the lists */
+.list-class {
+    color: blue;
+}
+.list-container h2{
+    background-color:#83caeb;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+/* Styling the span with light blue highlighting */
+.highlight {
+    background-color: cyan;
+    font-weight: bold;
+}
+.smile{
+    font-size: 30px;
+}
+.links a{
+    display: block;
+    color: black;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
